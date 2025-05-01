@@ -1,0 +1,4 @@
+Reporte de Calificaciones - Estudiante 1
+
+ID: 1 | Nombre: Kevin Diaz | Materia: ingeniería WEB | Nota: 3.5 | Comentarios: Buen Codigo
+ID: 1 | Nombre: Kevin Diaz | Materia: seguridad informática | Nota: 2.5 | Comentarios: Le falta dinamismo

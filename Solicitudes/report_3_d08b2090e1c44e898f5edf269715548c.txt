@@ -1,0 +1,4 @@
+Reporte de Calificaciones - Estudiante 3
+
+ID: 3 | Nombre: Julián Ramirez | Materia: ingeniería WEB | Nota: 3.5 | Comentarios: Buen Codigo
+ID: 3 | Nombre: Julián Ramirez | Materia: seguridad informática | Nota: 4.8 | Comentarios: Tiene buen manejo del tema

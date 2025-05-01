@@ -1,0 +1,8 @@
+Carga Masiva de Calificaciones
+
+ID: 1 | Nombre: Kevin Diaz | Materia: ingeniería WEB | Nota: 3.5 | Comentarios: Buen Codigo
+ID: 1 | Nombre: Kevin Diaz | Materia: seguridad informática | Nota: 2.5 | Comentarios: Le falta dinamismo
+ID: 2 | Nombre: Santiago Rayo | Materia: seguridad informática | Nota: 1.2 | Comentarios: Carece de información referente al tema
+ID: 2 | Nombre: Santiago Rayo | Materia: ingeniería WEB | Nota: 3.2 | Comentarios: Buen Codigo
+ID: 3 | Nombre: Julián Ramirez | Materia: ingeniería WEB | Nota: 3.5 | Comentarios: Buen Codigo
+ID: 3 | Nombre: Julián Ramirez | Materia: seguridad informática | Nota: 4.8 | Comentarios: Tiene buen manejo del tema

@@ -1,0 +1,4 @@
+Reporte de Calificaciones - Estudiante 2
+
+ID: 2 | Nombre: Santiago Rayo | Materia: seguridad informática | Nota: 1.2 | Comentarios: Carece de información referente al tema
+ID: 2 | Nombre: Santiago Rayo | Materia: ingeniería WEB | Nota: 3.2 | Comentarios: Buen Codigo

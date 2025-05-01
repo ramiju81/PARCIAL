@@ -1,0 +1,44 @@
+[
+  {
+    "student_id": 1,
+    "nombre": "Kevin Diaz",
+    "materia": "ingeniería WEB",
+    "calificacion": 3.5,
+    "comentarios": "Buen Codigo"
+  },
+  {
+    "student_id": 1,
+    "nombre": "Kevin Diaz",
+    "materia": "seguridad informática",
+    "calificacion": 2.5,
+    "comentarios": "Le falta dinamismo"
+  },
+  {
+    "student_id": 2,
+    "nombre": "Santiago Rayo",
+    "materia": "seguridad informática",
+    "calificacion": 1.2,
+    "comentarios": "Carece de información referente al tema"
+  },
+  {
+    "student_id": 2,
+    "nombre": "Santiago Rayo",
+    "materia": "ingeniería WEB",
+    "calificacion": 3.2,
+    "comentarios": "Buen Codigo"
+  },
+  {
+    "student_id": 3,
+    "nombre": "Julián Ramirez",
+    "materia": "ingeniería WEB",
+    "calificacion": 3.5,
+    "comentarios": "Buen Codigo"
+  }
+  {
+    "student_id": 3,
+    "nombre": "Julián Ramirez",
+    "materia": "seguridad informática",
+    "calificacion": 4.8,
+    "comentarios": "Tiene buen manejo del tema"
+  }
+]
