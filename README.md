@@ -1,31 +1,44 @@
-# PARCIAL
+# 📦 PARCIAL
 
-📦 **PARCIAL**
+## 📦 Descripción
 
-Este proyecto es parte del trabajo académico realizado por Julian R.
+Proyecto académico desarrollado por Julian R.
 
-## 📘 Visión Académica
-Solución diseñada con enfoque académico para mejorar procesos y aprendizaje técnico.
+## 🎯 Propósito
 
-## Características
+Proyecto académico en desarrollo de software para desarrollar habilidades técnicas.
 
-- Estructura organizada del sistema
-- Componentes modulares
-- Enfoque claro y funcional
+El proyecto está construido principalmente con **Python**, complementado con **Markdown**.
+## 🛠️ Tecnologías Principales
+
+- **Python** (`4` archivos)
+- **Markdown**
+## 📂 Estructura del Proyecto
+
+
+### Directorios personalizados:
+- `Respuestas/` *(personalizado)*
+- `Solicitudes/` *(personalizado)*
+- `__pycache__/` *(personalizado)*
+## 📅 Actividad Reciente
+
+Últimos cambios:
+- `9ba8fbe - Actualizar README.md (2025-05-03)`
+- `e8e4419 - Initial commit (2025-05-02)`
+- `04fb515 - Initial commit (2025-05-02)`
 
 ---
 
-## 🛡️ Licencia y Restricciones
+## 🛡️ Licencia
 
-© 2025 Julian R. Todos los derechos reservados.  
-Este software es de uso académico.  
-Se prohíbe su reproducción o modificación sin autorización expresa del autor.
+© 2025 Julian R. Todos los derechos reservados.
+Uso académico. Prohibida la redistribución sin autorización.
 
 ## 🧑‍💻 Autor
 
-**Julian Alberto Ramirez**  
-💻 Desarrollador de Software | 💡 Innovador Tecnológico  
-Software Developer (ABAP) Apasionado por la innovación tecnológica 💡 🤖 Robotica & Computación Cuántica ⚛️  
+**Julian Alberto Ramirez**
 
-📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)  
+💻 Desarrollador de Software | 💡 Innovador Tecnológico
+
+📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)
 🔗 [LinkedIn](https://co.linkedin.com/in/julianramirezc)
