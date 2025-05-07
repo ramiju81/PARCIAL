@@ -1,44 +1,76 @@
-# 📦 PARCIAL
+# 💻 PARCIAL  
+![Estado](https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-yellow) ![Licencia](https://img.shields.io/badge/LICENCIA-ACADÉMICO-blue)  
 
-## 📦 Descripción
-
-Proyecto académico desarrollado por Julian R.
-
-## 🎯 Propósito
-
-Proyecto académico en desarrollo de software para desarrollar habilidades técnicas.
-
-El proyecto está construido principalmente con **Python**, complementado con **Markdown**.
-## 🛠️ Tecnologías Principales
-
-- **Python** (`4` archivos)
-- **Markdown**
-## 📂 Estructura del Proyecto
-
-
-### Directorios personalizados:
-- `Respuestas/` *(personalizado)*
-- `Solicitudes/` *(personalizado)*
-- `__pycache__/` *(personalizado)*
-## 📅 Actividad Reciente
-
-Últimos cambios:
-- `8fc497e - Actualizar README.md - 2025-05-04 (2025-05-04)`
-- `5769ace - Actualizar README.md - 2025-05-04 (2025-05-04)`
-- `eef53db - ActualizaciÃ³n automÃ¡tica 2025-05-04 00:10 (2025-05-04)`
+**Proyecto académico**  
 
 ---
 
-## 🛡️ Licencia
+## 📌 Introducción  
+Este proyecto representa un esfuerzo orientado a resolver problemas reales mediante soluciones tecnológicas escalables y de impacto.  
+Está diseñado con principios de calidad de software, mantenibilidad y propósito claro desde su concepción.  
 
-© 2025 Julian R. Todos los derechos reservados.
-Uso académico. Prohibida la redistribución sin autorización.
+Proyecto académico que demuestra habilidades técnicas avanzadas.  
 
-## 🧑‍💻 Autor
+---
 
-**Julian Alberto Ramirez**
+## ✨ Características Clave  
+- **Arquitectura escalable**
+- **Código bien estructurado**
+- **Documentación completa**
+- **Fines educativos**  
 
-💻 Desarrollador de Software | 💡 Innovador Tecnológico
+---
 
-📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)
-🔗 [LinkedIn](https://co.linkedin.com/in/julianramirezc)
+## 🚀 Tecnologías Utilizadas  
+| Área       | Tecnologías |
+|------------|-------------|
+| Backend | `Python`  
+> Lógica del servidor y procesamiento de datos.
+| DevOps | `Docker`  
+> Automatización, integración y despliegue.
+  
+
+---
+
+## 📂 Estructura del Proyecto  
+A continuación, una vista general de la arquitectura principal de carpetas.  
+Cada directorio está pensado para representar una capa lógica del sistema, con separación de responsabilidades y facilidad de navegación:  
+
+├── PARCIAL/
+    ├── .git/
+        ├── hooks/
+        ├── info/
+        ├── logs/
+        ├── objects/
+        ├── refs/
+    ├── Respuestas/
+    ├── Solicitudes/
+    ├── __pycache__/
+
+---
+
+## 🎯 Roadmap  
+- Fase 1: Implementación inicial (En progreso)  
+- Fase 2: Integración con APIs externas  
+- Fase 3: Documentación avanzada  
+
+---
+
+## 📬 Contacto  
+**Julian Alberto Ramirez**  
+💻 Desarrollador Full Stack | ⚙️ Enfoque en Automatización | 🧩 Resolviendo problemas con software  
+🚀 En formación constante | 🔍 Apasionado por la IA  
+📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/julianramirezc)  
+
+## 💡 Nota de Autor
+Este proyecto ha sido desarrollado como parte de mi proceso de aprendizaje y tiene como propósito demostrar mi capacidad para:
+
+✅ Diseñar soluciones técnicas escalables orientadas a la resolución de problemas reales.
+✅ Aplicar tecnologías actuales siguiendo buenas prácticas de desarrollo.
+✅ Comunicar y documentar ideas de manera clara, estructurada y profesional.
+
+📬 Gracias por tomarte el tiempo de revisar este proyecto. Si deseas conversar sobre cómo puedo contribuir a tu equipo o proyecto, estaré encantado de conectarnos.
+
+## 📅 Actividad Reciente
+🔹 **Última actualización**: 2025-05-07  
