@@ -1,65 +1,32 @@
-<h1 style="font-size: 2em">📝 PARCIAL</h1>  
+# 💻 PARCIAL  
+![Estado](https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-yellow) ![Licencia](https://img.shields.io/badge/LICENCIA-ACADÉMICO-blue)  
 
-![Estado](https://img.shields.io/badge/🧪_En_Pruebas-orange)  
-![Licencia](https://img.shields.io/badge/Licencia-MIT-green)  
-![Actividad](https://img.shields.io/badge/%F0%9F%94%84_%C3%9Altima_Actividad-2025--05--09-lightgrey)  
+**Proyecto académico**  
 
-## 📋 Descripción
+## 📌 Descripción
+Proyecto académico desarrollado como parte de la formación académica.
 
-Solución backend desarrollada en Python para [propósito general del proyecto].
+## 🛠 Tecnologías utilizadas
+| Área       | Tecnologías |
+|------------|-------------|
+| Backend | `Python`  
+> Lógica del servidor y procesamiento de datos.
+| DevOps | `Docker`  
+> Automatización, integración y despliegue.
 
-**Objetivos principales**:
-- Automatizar procesos de [área específica]
-- Procesar grandes volúmenes de datos eficientemente
-- Integrar con otros sistemas corporativos
 
-**Características clave**:
-- Algoritmos optimizados para [propósito específico]
-- Integración con bases de datos SQL/NoSQL
-- Sistema de logging y monitoreo incorporado
+## 📂 Estructura del proyecto
+├── PARCIAL/
+    ├── .git/
+        ├── hooks/
+        ├── info/
+        ├── logs/
+        ├── objects/
+        ├── refs/
+    ├── Respuestas/
+    ├── Solicitudes/
+    ├── __pycache__/
 
-## 🛠 Tecnologías Utilizadas  **Backend**:  - Python  
-**DevOps**:  - Docker  
 
-## 📂 Estructura del Proyecto
-📁 PARCIAL/
-    └── 📂 .git/
-        hooks/
-        info/
-        logs/
-        objects/
-        refs/
-    └── 📂 Respuestas/
-    └── 📂 Solicitudes/
-    └── 📂 __pycache__/
-
-*Nota: Se muestran solo los directorios principales*
-
-## 🛡️ Derechos de Autor  
-
-© 2025 Julian Ramirez. Todos los derechos reservados.  
-Prohibido el uso comercial sin autorización expresa.  
-
-## 📬 Contacto   
-
-**Julian Alberto Ramirez**  
-💻 Desarrollador Full Stack | ⚙️ Enfoque en Automatización | 🧩 Resolviendo problemas con software  
-🚀 En formación constante | 🔍 Apasionado por la IA  
-📧 [juliram81@hotmail.com](mailto:juliram81@hotmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/julianramirezc)  
-
----  
-
-💡 **Nota de Autor**:  
-Este proyecto ha sido desarrollado como parte de mi proceso de aprendizaje y demuestra:  
-
-✅ Capacidad para diseñar soluciones técnicas  
-✅ Aplicación de tecnologías aprendidas  
-✅ Comunicación profesional de ideas  
-
-"¡Gracias por revisar mi trabajo académico!"  
-
----  
-
-📅 **Actividad Reciente**  
-🔹 Última actualización: 2025-05-09 
+## 📄 Licencia
+Uso académico - Creative Commons
